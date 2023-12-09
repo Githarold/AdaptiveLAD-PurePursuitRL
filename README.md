@@ -35,7 +35,7 @@ Goel, A., & Chauhan, S. (2021). Adaptive Look-ahead distance for Pure Pursuit Co
 </video>
 
 ### DQN v2 Algorithm
-<img width="80%" src="![DQN_V2_2000](https://github.com/Githarold/AdaptiveLAD-PurePursuitRL/assets/101968287/d9b82a5f-344b-4928-b68e-1342f963a6b1)"/>
+<img width="80%" src="[![DQN_V2_2000](https://github.com/Githarold/AdaptiveLAD-PurePursuitRL/assets/101968287/d9b82a5f-344b-4928-b68e-1342f963a6b1)](https://github.com/Githarold/AdaptiveLAD-PurePursuitRL/issues/4#issue-2033584271)"/>
 
 ### PPO CTE Algorithm
 <video src="./PPO_CTE_2000.mp4" width="320" height="240" controls>
