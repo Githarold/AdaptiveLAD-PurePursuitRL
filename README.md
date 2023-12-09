@@ -41,6 +41,4 @@ Goel, A., & Chauhan, S. (2021). Adaptive Look-ahead distance for Pure Pursuit Co
 
 
 ## Best Result Videos(FullPath)
-
-### YouTube Video Example
-[![Video Label](http://img.youtube.com/vi/exXFBBmYQrU/0.jpg)](https://youtu.be/exXFBBmYQrU)https://youtu.be/exXFBBmYQrU)
+[![Video Label](http://img.youtube.com/vi/exXFBBmYQrU/0.jpg)](https://youtu.be/exXFBBmYQrU)
