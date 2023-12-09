@@ -16,7 +16,7 @@ Requirements for using this project:
 - Additional MATLAB Toolboxes as required
 
 ## Authors and Contributors
-- Seongbin Joe (Project Leader)
+- Seongbin Joe
 - Younghoon Ko
 - Seungheon Lee
 - Taegyeom Lee
@@ -25,5 +25,15 @@ Requirements for using this project:
 Email: harold3312@naver.com
 
 ## References
-
 Goel, A., & Chauhan, S. (2021). Adaptive Look-ahead distance for Pure Pursuit Controller with Deep Reinforcement Learning Techniques. In Proceedings of the AIR2021, June 30-July 4, Visvesvaraya National Institute of Technology, Nagpur, India.
+
+## Result Videos
+
+### DDPG v2 Algorithm
+`![DDPG v2 Algorithm](DDPG_v2_2000.mp4)`
+
+### DQN v2 Algorithm
+`![DQN v2 Algorithm](DQN_V2_2000.mp4)`
+
+### PPO CTE Algorithm
+`![PPO CTE Algorithm](PPO_CTE_2000.mp4)`
