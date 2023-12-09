@@ -32,6 +32,10 @@ Goel, A., & Chauhan, S. (2021). Adaptive Look-ahead distance for Pure Pursuit Co
 ### DDPG v2 Algorithm
 ![DDPG_v2_2000](https://github.com/Githarold/AdaptiveLAD-PurePursuitRL/assets/101968287/048891f6-443e-4795-8234-d34649a8f893)
 
+<img width="80%" src="(https://github.com/Githarold/AdaptiveLAD-PurePursuitRL/assets/101968287/048891f6-443e-4795-8234-d34649a8f893)"/>
+
+출처: https://ndb796.tistory.com/557 [안경잡이개발자:티스토리]
+
 ### DQN v2 Algorithm
 ![DQN_V2_2000](https://github.com/Githarold/AdaptiveLAD-PurePursuitRL/assets/101968287/d9b82a5f-344b-4928-b68e-1342f963a6b1)
 
