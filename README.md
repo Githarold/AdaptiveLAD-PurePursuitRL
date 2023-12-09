@@ -30,17 +30,17 @@ Goel, A., & Chauhan, S. (2021). Adaptive Look-ahead distance for Pure Pursuit Co
 ## Result Videos
 
 ### DDPG v2 Algorithm
-<video src="DDPG_v2_2000.mp4" width="320" height="240" controls>
+<video src="./DDPG_v2_2000.mp4" width="320" height="240" controls>
   Your browser does not support the video tag.
 </video>
 
 ### DQN v2 Algorithm
-<video src="DQN_V2_2000.mp4" width="320" height="240" controls>
+<video src="./DQN_V2_2000.mp4" width="320" height="240" controls>
   Your browser does not support the video tag.
 </video>
 
 ### PPO CTE Algorithm
-<video src="PPO_CTE_2000.mp4" width="320" height="240" controls>
+<video src="./PPO_CTE_2000.mp4" width="320" height="240" controls>
   Your browser does not support the video tag.
 </video>
 
